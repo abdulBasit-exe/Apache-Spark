@@ -1,0 +1,73 @@
+[
+    {
+      "name": "Ahmed Ali",
+      "age": 28,
+      "department": "Engineering",
+      "salary": 80000,
+      "is_full_time": true
+    },
+    {
+      "name": "Ayesha Khan",
+      "age": 32,
+      "department": "Human Resources",
+      "salary": 75000,
+      "is_full_time": true
+    },
+    {
+      "name": "Usman Tariq",
+      "age": 45,
+      "department": "Finance",
+      "salary": 90000,
+      "is_full_time": true
+    },
+    {
+      "name": "Fatima Shaikh",
+      "age": 29,
+      "department": "Engineering",
+      "salary": 85000,
+      "is_full_time": false
+    },
+    {
+      "name": "Zainab Qureshi",
+      "age": 26,
+      "department": "Marketing",
+      "salary": 60000,
+      "is_full_time": true
+    },
+    {
+      "name": "Ali Raza",
+      "age": 38,
+      "department": "Sales",
+      "salary": 70000,
+      "is_full_time": true
+    },
+    {
+      "name": "Mariam Shah",
+      "age": 41,
+      "department": "Legal",
+      "salary": 95000,
+      "is_full_time": true
+    },
+    {
+      "name": "Tariq Mehmood",
+      "age": 52,
+      "department": "Finance",
+      "salary": 110000,
+      "is_full_time": false
+    },
+    {
+      "name": "Saima Akram",
+      "age": 30,
+      "department": "Engineering",
+      "salary": 82000,
+      "is_full_time": true
+    },
+    {
+      "name": "Imran Farooq",
+      "age": 34,
+      "department": "Marketing",
+      "salary": 67000,
+      "is_full_time": true,
+      "leave": 2
+    }
+  ]  
